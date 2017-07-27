@@ -1,0 +1,8 @@
+7107,Monday,11:00
+7107,Monday,12:00
+7107,Monday,14:00
+7107,Tuesday,15:00
+7107,Wednesday,18:00
+7108,Monday,11:00
+7109,Monday,11:00
+7110,Monday,11:00

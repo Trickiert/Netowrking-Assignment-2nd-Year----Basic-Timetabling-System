@@ -1,0 +1,14 @@
+7107, 1, Monday
+
+7107, 1, Tuesday
+
+7107, 1, Monday
+
+7109, 1, Monday, 11:00 
+
+7107, 1, Monday
+
+7107, 1234, Monday
+
+7110, 1234, Monday, 11:00 
+

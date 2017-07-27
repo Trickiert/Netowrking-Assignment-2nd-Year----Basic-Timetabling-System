@@ -1,0 +1,4 @@
+7107, Hexam-York, 40.12, return up to 1 week, regular
+7108, Hexam-Newcastle, 35.50, return up to 1 month, regular
+7109, York-Newcastle, 20.11, any train same day, saver
+7110, Middlesbrough-Newcastle, 10.15, any train same day, saver
