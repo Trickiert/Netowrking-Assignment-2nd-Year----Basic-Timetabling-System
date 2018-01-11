@@ -7,4 +7,4 @@ If this doesn't work (Maybe due to a lack of the JDK on your system), Run the fo
 "java BordRailServer 22" for the server
 "java BordRailClient localhost 22" for the client.
 
-Note the server should be started first for the best results.
+Note the server should be started first.
